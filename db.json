@@ -1,7 +1,7 @@
 {
   "partitions": [
-    { "id": 1, "title": "Post 1", packages: [{"id": 1, "title": "package one", members: []}] },
-    { "id": 2, "title": "Post 2", packages: [{"id": 1, "title": "package one", members: []}]  },
-    { "id": 3, "title": "Post 3", packages: [{"id": 1, "title": "package one", members: []}]  }
+    { "id": 1, "title": "Post 1", "packages": [{"id": 1, "title": "package one", "members": []}] },
+    { "id": 2, "title": "Post 2", "packages": [{"id": 1, "title": "package one", "members": []}]  },
+    { "id": 3, "title": "Post 3", "packages": [{"id": 1, "title": "package one", "members": []}]  }
   ]
 }
